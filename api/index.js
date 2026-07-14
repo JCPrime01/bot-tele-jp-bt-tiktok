@@ -25,7 +25,7 @@ export default async function handler(req, res) {
     
     const url = 'https://go.aff.bateu.bet.br/l9da18p1?campaign_id=30010'
 
-    const shareCode = '&shareCode=3AGPONWCZJK'
+    const shareCode = '&shareCode=12NHQPQOEPX'
     
     const afp = '&afp3=bott'
     
